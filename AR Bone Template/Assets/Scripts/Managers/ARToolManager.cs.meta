@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06f43543102ecae4fa457bd4701f1206
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ARPointPrefab: {fileID: 2052701457603657500, guid: a2cc893a1d052104486de906b5f2f56f,
+      type: 3}
+  - m_ARPlanePrefab: {fileID: 2547975458671149444, guid: a47d64721ed2e664c9b8a42c46d9bdb7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

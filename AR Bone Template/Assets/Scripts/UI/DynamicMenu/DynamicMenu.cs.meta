@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 737f55a7d4a75bb488dce6423a73a4f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ElementHolder: {instanceID: 0}
+  - m_DynamicMenuPagePrefab: {fileID: 7441619591734560420, guid: 38358127728254749bbb3b1adca757ed,
+      type: 3}
+  - m_NextButton: {instanceID: 0}
+  - m_BackButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
